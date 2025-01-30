@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently learning <b>>Dart</b> and <b>Flutter!</b></p>
+<p align="left">I'm currently learning <b>Dart</b> and <b>Flutter!</b></p>
 
 ###
 
